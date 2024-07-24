@@ -8,7 +8,7 @@ I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maciej-kusiak-21199b208/) 
 <br><br>
 
-## Expertise
+## Experience
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-%23232323.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
