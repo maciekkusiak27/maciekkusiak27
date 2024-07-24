@@ -25,5 +25,14 @@ I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I
 <img align="left" alt="ionic" src="https://img.shields.io/badge/ionic-%23485D9E.svg?&style=for-the-badge&logo=ionic&logoColor=white" />
 <br><br>
 
+## #HOBBY 🎨🎵
+
+I enjoy working with various creative tools. Here are some of my favorites:
+
+<img align="left" alt="fl-studio" src="https://img.shields.io/badge/FL%20Studio-%23D69D45.svg?&style=for-the-badge&logo=fl-studio&logoColor=white" />
+<img align="left" alt="davinci-resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-%234B7AEE.svg?&style=for-the-badge&logo=blackberry&logoColor=white" />
+<img align="left" alt="affinity-photo" src="https://img.shields.io/badge/Affinity%20Photo-%234A8C99.svg?&style=for-the-badge&logo=affinity&logoColor=white" />
+<br><br>
+
 <!--
 **maciekkusiak27/maciekkusiak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
