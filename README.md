@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**maciekkusiak27/maciekkusiak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I am passionate about creativity in every dimension. I want to collect here some interesting projects!
 
 - 📫 How to reach me: maciekkusiak27@gmail.com
@@ -27,3 +24,6 @@ I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I
 <img align="left" alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align="left" alt="ionic" src="https://img.shields.io/badge/ionic-%23485D9E.svg?&style=for-the-badge&logo=ionic&logoColor=white" />
 <br><br>
+
+<!--
+**maciekkusiak27/maciekkusiak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
