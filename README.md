@@ -25,7 +25,7 @@ I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I
 <img align="left" alt="ionic" src="https://img.shields.io/badge/ionic-%23485D9E.svg?&style=for-the-badge&logo=ionic&logoColor=white" />
 <br><br>
 
-## #HOBBY 🎨🎵
+## HOBBY 🎨🎵
 
 I enjoy working with various creative tools. Here are some of my favorites:
 
