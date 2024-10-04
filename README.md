@@ -1,6 +1,5 @@
-## Hi there 👋
-
-I am a Frontend Developer from Myślenice/Kraków 🚀. My name is Maciek, and I am passionate about creativity in every dimension. I want to collect here some interesting projects!
+**"Hi there! 👋 I'm a 25-year-old frontend developer from Poland with a passion for building web applications. My journey started at the Upper-Secondary Schools of Communications, where I graduated as an IT technician, and I later earned my master’s degree in Applied Computer Science from the Cracow University of Technology.
+I have commercial experience in Angular, and it's currently my main focus in frontend development. I'm always eager to learn more – especially about mobile development and expanding my skills in web technologies. I love creating things, whether it's a sleek website or a powerful web app. Let's build something awesome together!!"**
 
 - 📫 How to reach me: maciekkusiak27@gmail.com
 
