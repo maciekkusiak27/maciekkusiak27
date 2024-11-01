@@ -1,3 +1,13 @@
+# Portfolio
+<p align="center">
+  <a href="https://www.bjprojekt.pl/">
+    <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" width="200"/>
+  </a>
+</p>
+<p align="center">
+  Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
+</p>
+
 **Hi there! 👋 I'm a 25-year-old frontend developer from Poland with a passion for building web applications. My journey started at the Upper-Secondary Schools of Communications, where I graduated as an IT technician, and I later earned my master’s degree in Applied Computer Science from the Cracow University of Technology.
 I have commercial experience in Angular, and it's currently my main focus in frontend development. I'm always eager to learn more – especially about mobile development and expanding my skills in web technologies. I love creating things, whether it's a sleek website or a powerful web app. Let's build something awesome together!!**
 
