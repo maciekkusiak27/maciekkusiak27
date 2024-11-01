@@ -1,17 +1,18 @@
+Hi! 👋 I am a 25-year-old front-end developer from Poland with a passion for creating web applications. From November 2024, I will be a programming trainer at **Giganci Programowania**, where I will introduce young people to the world of programming.
+I started my adventure at the **Upper Secondary School of Communications in Krakow**, where I graduated as an IT technician, and later obtained a master's degree in applied computer science at the **Kraków University of Technology**.
+I have my first commercial experience as a junior front-end developer, I worked at Comarch and Futurum Technology, and my main technology was Angular. I'm always eager to learn more - especially about expanding my skills in the field of web and mobile technologies. I love creating things, whether it's an elegant website or a sophisticated web application. **Let's create something amazing together!!**
+
+- 📫 How to reach me: maciekkusiak27@gmail.com
+
 # Portfolio
-<p align="center">
+<p>
   <a href="https://www.bjprojekt.pl/">
-    <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" width="200"/>
+    <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" width="100"/>
   </a>
 </p>
 <p align="center">
   Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
 </p>
-
-**Hi there! 👋 I'm a 25-year-old frontend developer from Poland with a passion for building web applications. My journey started at the Upper-Secondary Schools of Communications, where I graduated as an IT technician, and I later earned my master’s degree in Applied Computer Science from the Cracow University of Technology.
-I have commercial experience in Angular, and it's currently my main focus in frontend development. I'm always eager to learn more – especially about mobile development and expanding my skills in web technologies. I love creating things, whether it's a sleek website or a powerful web app. Let's build something awesome together!!**
-
-- 📫 How to reach me: maciekkusiak27@gmail.com
 
 ## Connect with me
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maciej-kusiak-21199b208/) 
