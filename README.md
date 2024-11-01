@@ -10,7 +10,7 @@ I have my first commercial experience as a junior front-end developer, I worked 
     <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" width="100"/>
   </a>
 </p>
-<p align="center">
+<p>
   Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
 </p>
 
