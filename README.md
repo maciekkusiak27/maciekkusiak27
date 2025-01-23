@@ -11,6 +11,11 @@ I have my first commercial experience as a junior front-end developer, I worked 
   </a>
 </p>
 <p>
+  <a href="https://adwokatkowalska.pl/">
+    <img src="https://adwokatkowalska.pl/assets/DSC_2766.webp" alt="Adwokat Kowalska" width="100"/>
+  </a>
+</p>
+<p>
   Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
 </p>
 
