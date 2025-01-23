@@ -5,23 +5,26 @@ I have my first commercial experience as a junior front-end developer, I worked 
 - 📫 How to reach me: maciekkusiak27@gmail.com
 
 # Portfolio
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.bjprojekt.pl/" style="margin-right: 10px;">
-    <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" style="width: 150px; height: 150px; object-fit: cover;"/>
-  </a>
-  <div>
-    Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.bjprojekt.pl/" style="margin-right: 10px;">
+      <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: auto;"/>
+    </a>
+    <div>
+      Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://adwokatkowalska.pl/" style="margin-right: 10px;">
+      <img src="https://adwokatkowalska.pl/assets/DSC_2766.webp" alt="Adwokat Kowalska" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: auto;"/>
+    </a>
+    <div>
+      Website created for <a href="https://www.adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://adwokatkowalska.pl/" style="margin-right: 10px;">
-    <img src="https://adwokatkowalska.pl/assets/DSC_2766.webp" alt="Adwokat Kowalska" style="width: 150px; height: 150px; object-fit: cover;"/>
-  </a>
-  <div>
-    Website created for <a href="https://www.adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.
-  </div>
-</div>
 
 ## Connect with me
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maciej-kusiak-21199b208/) 
