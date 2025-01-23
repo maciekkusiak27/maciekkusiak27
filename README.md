@@ -4,10 +4,10 @@ I have my first commercial experience as a junior front-end developer, I worked 
 
 - 📫 How to reach me: maciekkusiak27@gmail.com
 
-##Portfolio
+## Portfolio
 <ul>
   <li>Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.</li>
-  <li>Website created for <a href="https://www.adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.</li>
+  <li>Website created for <a href="https://adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.</li>
 </ul>
 
 
