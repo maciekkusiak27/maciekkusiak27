@@ -4,28 +4,11 @@ I have my first commercial experience as a junior front-end developer, I worked 
 
 - 📫 How to reach me: maciekkusiak27@gmail.com
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://www.bjprojekt.pl/" style="margin-right: 10px;">
-      <img src="https://www.bjprojekt.pl/assets/logo.png" alt="BJ Projekt Logo" 
-           style="width: 120px; height: 120px; max-width: 100%; max-height: 100%; object-fit: contain; display: block;" />
-    </a>
-    <p style="margin: 0;">
-      Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.
-    </p>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://adwokatkowalska.pl/" style="margin-right: 10px;">
-      <img src="https://adwokatkowalska.pl/assets/DSC_2766.webp" alt="Adwokat Kowalska" 
-           style="width: 120px; height: 120px; max-width: 100%; max-height: 100%; object-fit: contain; display: block;" />
-    </a>
-    <p style="margin: 0;">
-      Website created for <a href="https://www.adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.
-    </p>
-  </div>
-</div>
-
+##Portfolio
+<ul>
+  <li>Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.</li>
+  <li>Website created for <a href="https://www.adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.</li>
+</ul>
 
 
 ## Connect with me
