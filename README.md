@@ -7,6 +7,7 @@ I have my first commercial experience as a junior front-end developer, I worked 
 ## Portfolio
 <ul>
   <li>Website created for <a href="https://jedrzejowskatattoo.pl/">Jedrzejowskatattoo</a>.</li>
+  <li>Website created for <a href="https://alfaspzoo.pl/alfaspzoo/">Alfa Sp.z.o.o.</a>.</li>
   <li>Website created for <a href="https://www.bjprojekt.pl/">BJ Projekt</a>.</li>
   <li>Website created for <a href="https://adwokatkowalska.pl/">Adwokat Małgorzata Kowalska</a>.</li>
 </ul>
